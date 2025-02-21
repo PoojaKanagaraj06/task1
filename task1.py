@@ -2,7 +2,6 @@ def display_instructions():
     print("Welcome to the Brainy Quiz!")
     print("Here are the instructions:")
     print("---------------------------")
-    print("---------------------------")
     print("1. You will be asked a series of questions.")
     print("2. For each question, you will have multiple choices.")
     print("3. Type the letter corresponding to your chosen answer and press Enter.")
