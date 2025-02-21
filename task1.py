@@ -1,5 +1,5 @@
 def display_instructions():
-    print("Welcome to the Brainy Quiz!")
+    print("Greetings to the Brainy Quiz!")
     print("Here are the instructions:")
     print("---------------------------")
     print("1. You will be asked a series of questions.")
